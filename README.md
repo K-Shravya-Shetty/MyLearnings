@@ -37,7 +37,12 @@ Linear Regression is a simple statistical and machine learning method to underst
 
 **Mean Squared Error** : It is the average of the squared difference between the predicted values and the actual values.
 
+$$MSE = \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2$$
+
 **Mean Absolute Error** : MAE is the average of the absolute difference between the predicted and the actual value.
+
+$$MAE = \frac{1}{n} \sum_{i=1}^{n} |y_i - \hat{y}_i|$$
+
 
 
 
